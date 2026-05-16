@@ -342,7 +342,7 @@ export default function PortfolioPage() {
         {/* Footer */}
         <footer className="mt-12 md:mt-16 text-center">
           <p className="text-sm text-muted-foreground">
-            © {new Date().getFullYear()} Iqbal Alzauhari.
+            © {new Date().getFullYear()} Iqbal Alzauhari. v0.app.
           </p>
         </footer>
       </div>
